@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://liketrademan.github.io/sitemap.xml
