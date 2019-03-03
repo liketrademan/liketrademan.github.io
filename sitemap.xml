@@ -17,56 +17,7 @@
   </url>
   
   <url>
-    <loc>http://liketrademan.github.io/post/doc-footnote-preview/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/post/doc%E5%89%AF%E6%9C%AC/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/post/new/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://liketrademan.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/categories/docs/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/tags/footnote/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/categories/index/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://liketrademan.github.io/tags/markdown/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -79,15 +30,7 @@
   </url>
   
   <url>
-    <loc>http://liketrademan.github.io/tags/tag-11/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://liketrademan.github.io/tags/</loc>
-    <lastmod>2018-03-01T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
