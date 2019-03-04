@@ -10,10 +10,24 @@
   </url>
   
   <url>
+    <loc>http://liketrademan.github.io/post/2019-03-04/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://liketrademan.github.io/post/2019-02-28/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://liketrademan.github.io/tags/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -31,6 +45,7 @@
   
   <url>
     <loc>http://liketrademan.github.io/tags/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -51,6 +66,20 @@
   
   <url>
     <loc>http://liketrademan.github.io/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liketrademan.github.io/tags/%E6%B3%95%E5%BE%8B/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://liketrademan.github.io/categories/%E6%B3%95%E5%BE%8B/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
