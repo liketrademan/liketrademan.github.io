@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>一桃三士 补给站 </title>
+    <title>Tags on 一桃三士 补给站 </title>
     <link>http://liketrademan.github.io/tags/</link>
-    <description>Recent content on 一桃三士 补给站 </description>
+    <description>Recent content in Tags on 一桃三士 补给站 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>jooboy</copyright>
@@ -13,12 +13,39 @@
     
     
     <item>
-      <title>中华人民共和国刑事诉讼法（2018年修改）</title>
-      <link>http://liketrademan.github.io/post/2019-03-04/</link>
+      <title></title>
+      <link>http://liketrademan.github.io/tags/</link>
       <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://liketrademan.github.io/post/2019-03-04/</guid>
-      <description>本法变迁史： 1979年7月1日第五届全国人民代表大会第二次会议通过 根据1996年3月17日第八届全国人民代表大会第四次会议《关于修改〈中华人</description>
+      <guid>http://liketrademan.github.io/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>效率</title>
+      <link>http://liketrademan.github.io/tags/%E6%95%88%E7%8E%87/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liketrademan.github.io/tags/%E6%95%88%E7%8E%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>法律</title>
+      <link>http://liketrademan.github.io/tags/%E6%B3%95%E5%BE%8B/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liketrademan.github.io/tags/%E6%B3%95%E5%BE%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>计划</title>
+      <link>http://liketrademan.github.io/tags/%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liketrademan.github.io/tags/%E8%AE%A1%E5%88%92/</guid>
+      <description></description>
     </item>
     
   </channel>
