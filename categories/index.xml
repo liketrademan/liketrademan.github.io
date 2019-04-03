@@ -1,35 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>一桃三士 补给站 </title>
+    <title>Categories on 一桃三士 补给站 </title>
     <link>http://liketrademan.github.io/categories/</link>
-    <description>Recent content on 一桃三士 补给站 </description>
+    <description>Recent content in Categories on 一桃三士 补给站 </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>jooboy</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://liketrademan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>中华人民共和国合同法</title>
-      <link>http://liketrademan.github.io/post/2019-03-09/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>http://liketrademan.github.io/categories/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://liketrademan.github.io/post/2019-03-09/</guid>
-      <description>本法变迁史： 1999年3月15日第九届全国人民代表大会第二次会议通过1999年3月15日中华人民共和国主席令第十五号公布自1999年10月1</description>
+      <guid>http://liketrademan.github.io/categories/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>//liketrademan.github.io/categories/%E5%AD%A6%E4%B9%A0/</guid>
+    <item>
+      <title>学习</title>
+      <link>http://liketrademan.github.io/categories/%E5%AD%A6%E4%B9%A0/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://liketrademan.github.io/categories/%E5%AD%A6%E4%B9%A0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>法律</title>
       <link>http://liketrademan.github.io/categories/%E6%B3%95%E5%BE%8B/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://liketrademan.github.io/categories/%E6%B3%95%E5%BE%8B/</guid>
       <description></description>
